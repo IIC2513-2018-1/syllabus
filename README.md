@@ -28,6 +28,10 @@
 
 | Nombre                | Github        | Email         |
 |:--------------------- |:--------------|:--------------|
+| Felipe Garrido        |  [@figarrido](https://github.com/figarrido)| figarrido@uc.cl |
+| Felipe Pezoa          |  [@MainScientist](https://github.com/MainScientist)| fipezoa@uc.cl |
+| Ignacio Acevedo       |  [@iqacevedo](https://github.com/iqacevedo)| iqacevedo@uc.cl |
+| Ignacio Toresano      |  [@itoresano](https://github.com/itoresano)| ijtoresano@uc.cl |
 
 
 ## Objetivos
