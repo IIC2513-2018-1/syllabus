@@ -16,7 +16,14 @@ Pueden ver los datos para poder contactar a su ayudante en el [programa del curs
 
 ## Entregas
 
-Las entregas tendrán una duración aproximada de 2 semanas cada una, aunque es posible que en ocasiones el enunciado de una entrega sea publicado con mayor antelación.
+Las entregas tendrán una duración aproximada de 2 semanas cada una, aunque es posible que en ocasiones el enunciado de una entrega sea publicado con mayor antelación. A continuación las fechas estimadas de entrega
+
+* **Entrega 1:** Jueves 29 de Marzo, 23:59 hrs.
+* **Entrega 2:** Lunes 16 de Abril, 23:59 hrs.
+* **Entrega 3:** Lunes 7 de Mayo, 23:59 hrs.
+* **Entrega 4:** Martes 22 de Mayo, 23:59 hrs.
+* **Entrega 5:** Lunes 4 de Junio, 23:59 hrs.
+* **Entrega 6:** Lunes 19 de Junio, 23:59 hrs.
 
 ## Indicaciones
 
@@ -35,6 +42,8 @@ Las entregas tendrán una duración aproximada de 2 semanas cada una, aunque es 
 	* Nota B: Buen trabajo. En línea con la exigencia.
 	* Nota C: Regular. Bajo el avance esperado.
 	* Nota D: Malo. Muy por debajo de lo solicitado.
+
+	En el caso de que un grupo no entregue nada, la nota será de un 1.0.
 
 	Al final del semestre, estas notas serán promediadas considerando las siguientes equivalencias: A – 7.0, B – 5.5, C – 4.0, D – 3.0
 
