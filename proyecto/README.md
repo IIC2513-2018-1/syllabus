@@ -6,11 +6,33 @@ Los enunciados dan la línea general de la funcionalidad que deben implementar, 
 
 ## Equipo, proyectos y ayudantes guías
 
-Cada equipo tiene asignado un proyecto y un ayudante que los guiará y evaluará durante el semestre. Las asignaciones de proyecto y ayudante estarán detalladas aquí prontamente.
+Cada equipo tiene asignado un proyecto y un ayudante que los guiará y evaluará durante el semestre. Las asignaciones de proyecto y ayudante están detalladas aquí:
 
 | Equipo  | Proyecto | Ayudante |
 |:-------------------- |:---------------------------| :------|
-
+Fegais | [PetCare](https://docs.google.com/document/d/1lcl-niHvwBIUEK557jSuUmrXa1tth6bHg5p35x1chMs/edit?usp=sharing) | Ignacio Acevedo
+Los computásticos | [PetCare](https://docs.google.com/document/d/1lcl-niHvwBIUEK557jSuUmrXa1tth6bHg5p35x1chMs/edit?usp=sharing) | Ignacio Acevedo
+El bueno, el malo y el feo | [PetCare](https://docs.google.com/document/d/1lcl-niHvwBIUEK557jSuUmrXa1tth6bHg5p35x1chMs/edit?usp=sharing) | Ignacio Acevedo
+Los zorros | [PetCare](https://docs.google.com/document/d/1lcl-niHvwBIUEK557jSuUmrXa1tth6bHg5p35x1chMs/edit?usp=sharing) | Ignacio Acevedo
+Traders | [PetCare](https://docs.google.com/document/d/1lcl-niHvwBIUEK557jSuUmrXa1tth6bHg5p35x1chMs/edit?usp=sharing) | Ignacio Acevedo
+chocoApp | [PetCare](https://docs.google.com/document/d/1lcl-niHvwBIUEK557jSuUmrXa1tth6bHg5p35x1chMs/edit?usp=sharing) | Ignacio Acevedo
+droptables | [Tengo Hambre](https://docs.google.com/document/d/1PX5RN1xZl1SIMmFpJKXc3x4FN5uQY_nEF2b2zGl4T20/edit?usp=sharing) | Felipe Pezoa
+NodeKoaHacer | [Tengo Hambre](https://docs.google.com/document/d/1PX5RN1xZl1SIMmFpJKXc3x4FN5uQY_nEF2b2zGl4T20/edit?usp=sharing) | Felipe Pezoa
+Infinity Web | [Tengo Hambre](https://docs.google.com/document/d/1PX5RN1xZl1SIMmFpJKXc3x4FN5uQY_nEF2b2zGl4T20/edit?usp=sharing) | Felipe Pezoa
+Aviato | [Tengo Hambre](https://docs.google.com/document/d/1PX5RN1xZl1SIMmFpJKXc3x4FN5uQY_nEF2b2zGl4T20/edit?usp=sharing) | Felipe Pezoa
+Charlotte's web | [Tengo Hambre](https://docs.google.com/document/d/1PX5RN1xZl1SIMmFpJKXc3x4FN5uQY_nEF2b2zGl4T20/edit?usp=sharing) | Felipe Pezoa
+FellowshipJS | [Tengo Hambre](https://docs.google.com/document/d/1PX5RN1xZl1SIMmFpJKXc3x4FN5uQY_nEF2b2zGl4T20/edit?usp=sharing) | Felipe Pezoa
+Mojorcio | [Guías Resueltas y Búsquedas de Grupos UC](https://docs.google.com/document/d/10ab789YIwZwHJB5t_7GFE9a1xv491NGx28J1rhlabSg/edit?usp=sharing) | Ignacio Toresano
+Luchadores Australes | [Guías Resueltas y Búsquedas de Grupos UC](https://docs.google.com/document/d/10ab789YIwZwHJB5t_7GFE9a1xv491NGx28J1rhlabSg/edit?usp=sharing) | Ignacio Toresano
+Web OS | [Guías Resueltas y Búsquedas de Grupos UC](https://docs.google.com/document/d/10ab789YIwZwHJB5t_7GFE9a1xv491NGx28J1rhlabSg/edit?usp=sharing) | Ignacio Toresano
+PotatoesHopePleasure | [Guías Resueltas y Búsquedas de Grupos UC](https://docs.google.com/document/d/10ab789YIwZwHJB5t_7GFE9a1xv491NGx28J1rhlabSg/edit?usp=sharing) | Ignacio Toresano
+No Inscrito | [Guías Resueltas y Búsquedas de Grupos UC](https://docs.google.com/document/d/10ab789YIwZwHJB5t_7GFE9a1xv491NGx28J1rhlabSg/edit?usp=sharing) | Ignacio Toresano
+Reignbow | [GetOut](https://docs.google.com/document/d/1dIYDjn_4R-84lMZYNRNUW7QCEj2mVrjkp-Xgz_N97_8/edit?usp=sharing) | Felipe Garrido
+GuriCubiPaso | [GetOut](https://docs.google.com/document/d/1dIYDjn_4R-84lMZYNRNUW7QCEj2mVrjkp-Xgz_N97_8/edit?usp=sharing) | Felipe Garrido
+Hola Mundo | [GetOut](https://docs.google.com/document/d/1dIYDjn_4R-84lMZYNRNUW7QCEj2mVrjkp-Xgz_N97_8/edit?usp=sharing) | Felipe Garrido
+Tochova | [GetOut](https://docs.google.com/document/d/1dIYDjn_4R-84lMZYNRNUW7QCEj2mVrjkp-Xgz_N97_8/edit?usp=sharing) | Felipe Garrido
+calceteam | [GetOut](https://docs.google.com/document/d/1dIYDjn_4R-84lMZYNRNUW7QCEj2mVrjkp-Xgz_N97_8/edit?usp=sharing) | Felipe Garrido
+RandomWeb | [GetOut](https://docs.google.com/document/d/1dIYDjn_4R-84lMZYNRNUW7QCEj2mVrjkp-Xgz_N97_8/edit?usp=sharing) | Felipe Garrido
 
 Pueden ver los datos para poder contactar a su ayudante en el [programa del curso](../../../#equipo)
 
@@ -18,7 +40,7 @@ Pueden ver los datos para poder contactar a su ayudante en el [programa del curs
 
 Las entregas tendrán una duración aproximada de 2 semanas cada una, aunque es posible que en ocasiones el enunciado de una entrega sea publicado con mayor antelación. A continuación las fechas estimadas de entrega
 
-* **Entrega 1:** Jueves 29 de Marzo, 23:59 hrs.
+* **[Entrega 1](./enunciados/entrega1):** Jueves 29 de Marzo, 23:59 hrs.
 * **Entrega 2:** Lunes 16 de Abril, 23:59 hrs.
 * **Entrega 3:** Lunes 7 de Mayo, 23:59 hrs.
 * **Entrega 4:** Martes 22 de Mayo, 23:59 hrs.
