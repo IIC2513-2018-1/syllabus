@@ -38,7 +38,6 @@ Finalmente, existen varias formas de lograr el objetivo. Se debe considerar que 
 ```
 Iniciando el programa
 undefined
-2
 cuak!
 cuak!
 -- NOT DEFINED --
