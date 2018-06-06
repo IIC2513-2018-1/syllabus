@@ -45,7 +45,7 @@ Las entregas tendrán una duración aproximada de 2 semanas cada una, aunque es 
 * **[Entrega 3](enunciados/entrega3.md):** Lunes 7 de Mayo, 23:59 hrs.
 * **[Entrega 4](enunciados/entrega4.md):** Martes 22 de Mayo, 23:59 hrs.
 * **[Entrega 5](enunciados/entrega5.md):** Lunes 4 de Junio, 23:59 hrs.
-* **[Entrega 6](enunciados/entrega6.md):** Lunes 18 de Junio, 23:59 hrs.
+* **[Entrega 6](enunciados/entrega6.md):** Jueves 21 de Junio, 23:59 hrs.
 
 ## Indicaciones
 
