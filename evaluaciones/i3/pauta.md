@@ -233,7 +233,7 @@ export default class MostWatched extends Component {
 
     return (
       <div>
-        <h1>Más Vistas</h2>
+        <h1>Más Vistas</h1>
         {body}
       </div>
     );
