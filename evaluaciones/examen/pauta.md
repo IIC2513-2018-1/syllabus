@@ -224,6 +224,7 @@ export default function ContactForm(props) {
                 name="message"
                 value={props.messageInputValue}
                 onChange={props.handleInputChange} />
+            </label>
           </div>
 
           <input type="submit" name="Send" />
